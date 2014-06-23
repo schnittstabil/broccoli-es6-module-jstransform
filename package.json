@@ -1,0 +1,34 @@
+{
+  "name": "broccoli-es6-module-jstransform",
+  "version": "0.1.0",
+  "description": "Transpile ES6 modules to CommonJS with es6-module-jstransform",
+  "homepage": "https://github.com/schnittstabil/broccoli-es6-module-jstransform",
+  "keywords": [
+    "broccoli-plugin",
+    "ecmascript",
+    "ecmascript6",
+    "es5",
+    "es6",
+    "harmony",
+    "jstransform",
+    "module",
+    "transpiler"
+  ],
+  "author": "Michael Mayer <michael@schnittstabil.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/schnittstabil/broccoli-es6-module-jstransform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/schnittstabil/broccoli-es6-module-jstransform/issues"
+  },
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "broccoli-filter": "^0.1.6",
+    "es6-module-jstransform": "^0.1.4"
+  }
+}
