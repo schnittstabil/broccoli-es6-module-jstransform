@@ -1,5 +1,7 @@
 # [broccoli](https://github.com/joliss/broccoli)-es6-module-jstransform
 
+**Deprecated. [`jstransform`](https://github.com/facebookarchive/jstransform) is not maintained anymore.**
+
 > Transpile ES6 modules to CommonJS with [es6-module-jstransform](https://github.com/andreypopp/es6-module-jstransform).
 
 ## Install
@@ -17,6 +19,4 @@ tree = transform(tree);
 
 ## License
 
-Copyright (c) 2014 Michael Mayer
-
-Licensed under the MIT license.
+MIT © [Michael Mayer](http://schnittstabil.de)
