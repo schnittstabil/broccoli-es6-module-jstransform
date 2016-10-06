@@ -1,6 +1,6 @@
 {
   "name": "broccoli-es6-module-jstransform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Transpile ES6 modules to CommonJS with es6-module-jstransform",
   "homepage": "https://github.com/schnittstabil/broccoli-es6-module-jstransform",
   "keywords": [
