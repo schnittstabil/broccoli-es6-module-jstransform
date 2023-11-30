@@ -28,7 +28,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.6",
+    "broccoli-filter": "^0.2.0",
     "es6-module-jstransform": "^0.1.4"
   }
 }
